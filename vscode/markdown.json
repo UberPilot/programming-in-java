@@ -1,0 +1,27 @@
+{
+	"Tutorial Template":
+	{
+		"prefix": "ttemp",
+		"body": [
+			"<!-- Header -->",
+			"<h2 align='center'>${1:title}</h2>",
+			"<p align='center'><em>${2:subtitle}</em></h2>",
+			"<p align='center'><a href='${3:prev}'><<</a> | <a href='../readme.md'>Index</a> | <a href='${4:next}'>>></a>",
+			"",
+			"---",
+			"",
+			"<!-- Content -->",
+			"",
+			"$0",
+			"",
+			"<!-- Footer -->",
+			"",
+			"---",
+			"",
+			"<p align='center'><a href='${3:prev}'><<</a> | <a href='../readme.md'>Index</a> | <a href='${4:next}'>>></a>",
+			"",
+			"<sub>© ${CURRENT_YEAR} UberPilot All Rights Reserved</sub>"
+		],
+		"description": "Template for a markdown tutorial file"
+	}
+}
