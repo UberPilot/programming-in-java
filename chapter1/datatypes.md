@@ -12,7 +12,7 @@ If you are interested in learning in-depth how each variable is stored in memory
 
 ### Data Types
 
-**Data Types** (sometimes represented as Datatypes or simply Types) are a key part in the state of a Class. State is storing data, and data types tell the computer and the JVM how to store that data. Java is a **Strongly Typed** language, which means that each type is distinct and requires specific steps before differing types can be operated on, and throwing exceptions if those steps are not followed. Java is also **Statically Typed**, which means that the types are linked to the storage of the data, rather than the value that is stored.
+**Data Types** (sometimes represented as Datatypes or simply Types) are a key part in the state of a Class. State is storing data, and data types tell the computer and the JVM how to store that data. Java is a **Strongly Typed** language, which means that each type is distinct and requires specific steps before differing types can be operated on, and throwing exceptions if those steps are not followed. Java is also **Statically Typed**, which means that the types are linked to the storage of the data, rather than the value that is stored, and they cannot be changed.
 
 ### Primitives
 
