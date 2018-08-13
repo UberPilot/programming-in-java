@@ -7,7 +7,7 @@
 
 <!-- Content -->
 
-### What are Classes?
+### Classes
 
 Everything in Java is or stems from a **Class**. The keyword `class` appears near the top of every Java file. Programs written in Java start with, and are made up of classes. In the code that was used to test your IDE, a class was clearly used:
 
@@ -25,7 +25,7 @@ Classes are also responsible for two things. The first is storing data, called *
 | Age   | Sleep    |
 | Color | Fetch    |
 
-### Instances vs Classes
+### Instances and Classes
 
 It is important to note that there is a difference between a Class and an **Instance** of a class. Classes are created to represent an object, but they are just a blueprint for that object. If we were to create a class Dog, it would not specifically represent one dog, Fido, but would also be a blueprint to represent another dog, Addie, as well.
 
