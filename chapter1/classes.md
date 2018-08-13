@@ -14,7 +14,7 @@ Everything in Java is or stems from a **Class**. The keyword `class` appears nea
 ```java
 public class HelloWorld
 ```
- arten more than just a statement that we need to put at the top of every file. are containers an **Object**, be it something real, like a Dog, or just a concept that exists in our program, such as a Model in a game.
+Classes are more than just a statement that we need to put at the top of every file. They are containers for **Objects**, whether those are something real (Dogs) or just a concept that exists in our program (HelloWorld).
 
 Classes are also responsible for two things. The first is storing data, called **State**. In our Dog example, state would include Name, Breed, Age, and Color. The second is operating on data they either store or receive, called **Behavior**. In our Dog example, behavior would include Barking, Eating, Sleeping, and Fetching. Classes are not required to have both state and behavior.
 
@@ -25,13 +25,9 @@ Classes are also responsible for two things. The first is storing data, called *
 | Age   | Sleep    |
 | Color | Fetch    |
 
----
-
 ### Instances vs Classes
 
 It is important to note that there is a difference between a Class and an **Instance** of a class. Classes are created to represent an object, but they are just a blueprint for that object. If we were to create a class Dog, it would not specifically represent one dog, Fido, but would also be a blueprint to represent another dog, Addie, as well.
-
----
 
 ### Review
 
