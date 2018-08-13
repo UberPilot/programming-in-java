@@ -1,7 +1,7 @@
 <!-- Header -->
-<h2 align='center'>0.1 What is Java?</h2>
-<p align='center'><em>What are you getting me into?</em></h2>
-<p align='center'><a href='./index.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./howjavaworks.md'>>></a>
+<h1 align='center'>0.1 What is Java?</h1>
+<p align='center'><em>What are you getting me into?</em></p>
+<p align='center'><a href='./index.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./howjavaworks.md'>>></a></p>
 
 ---
 
@@ -23,6 +23,6 @@ Sold? Have Questions? [Join us on Discord!](https://discordapp.com/invite/zUbNX9
 
 ---
 
-<p align='center'><a href='./index.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./howjavaworks.md'>>></a>
+<p align='center'><a href='./index.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./howjavaworks.md'>>></a></p>
 
 <sub>© 2018 UberPilot All Rights Reserved</sub>

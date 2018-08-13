@@ -4,9 +4,9 @@
 		"prefix": "ttemp",
 		"body": [
 			"<!-- Header -->",
-			"<h2 align='center'>${1:title}</h2>",
-			"<p align='center'><em>${2:subtitle}</em></h2>",
-			"<p align='center'><a href='${3:prev}'><<</a> | <a href='../readme.md'>Index</a> | <a href='${4:next}'>>></a>",
+			"<h1 align='center'>${1:title}</h1>",
+			"<p align='center'><em>${2:subtitle}</em></p>",
+			"<p align='center'><a href='${3:prev}'><<</a> | <a href='../readme.md'>Index</a> | <a href='${4:next}'>>></a></p>",
 			"",
 			"---",
 			"",
@@ -18,7 +18,7 @@
 			"",
 			"---",
 			"",
-			"<p align='center'><a href='${3:prev}'><<</a> | <a href='../readme.md'>Index</a> | <a href='${4:next}'>>></a>",
+			"<p align='center'><a href='${3:prev}'><<</a> | <a href='../readme.md'>Index</a> | <a href='${4:next}'>>></a></p>",
 			"",
 			"<sub>© ${CURRENT_YEAR} UberPilot All Rights Reserved</sub>"
 		],

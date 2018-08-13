@@ -1,7 +1,7 @@
 <!-- Header -->
-<h2 align='center'>0.2 How Java Works</h2>
-<p align='center'><em>Okay, you've got me. Now how does it work?</em></h2>
-<p align='center'><a href='./whatisjava.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./whatisanide.md'>>></a>
+<h1 align='center'>0.2 How Java Works</h1>
+<p align='center'><em>Okay, you've got me. Now how does it work?</em></p>
+<p align='center'><a href='./whatisjava.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./whatisanide.md'>>></a></p>
 
 ---
 
@@ -13,6 +13,6 @@
 
 ---
 
-<p align='center'><a href='./whatisjava.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./whatisanide.md'>>></a>
+<p align='center'><a href='./whatisjava.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./whatisanide.md'>>></a></p>
 
 <sub>© 2018 UberPilot All Rights Reserved</sub>

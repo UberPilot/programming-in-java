@@ -41,9 +41,9 @@ All tutorials follow this same template:
 
 ```md
 <!-- Header -->
-<h2 align='center'>0.0 Title</h2>
+<h1 align='center'>0.0 Title</h1>
 <p align='center'><em>Subtitle</em></p>
-<p align='center'><a href='./CHANGEME.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./CHANGEME.md'>>></a>
+<p align='center'><a href='./CHANGEME.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./CHANGEME.md'>>></a></p>
 
 ---
 
@@ -55,7 +55,7 @@ All tutorials follow this same template:
 
 ---
 
-<p align='center'><a href='./CHANGEME.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./CHANGEME.md'>>></a>
+<p align='center'><a href='./CHANGEME.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./CHANGEME.md'>>></a></p>
 
 <sub>© 2018 Author All Rights Reserved</sub>
 ```

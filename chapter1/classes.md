@@ -1,7 +1,7 @@
 <!-- Header -->
-<h2 align='center'>1.1 Classes</h2>
+<h1 align='center'>1.1 Classes</h1>
 <p align='center'><em>The Blueprints of a Program</em></p>
-<p align='center'><a href='./index.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./methods.md'>>></a>
+<p align='center'><a href='./index.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./methods.md'>>></a></p>
 
 ---
 
@@ -37,6 +37,6 @@ Classes represent everything in Java. They store state, and have behavior that t
 
 ---
 
-<p align='center'><a href='./index.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./methods.md'>>></a>
+<p align='center'><a href='./index.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./methods.md'>>></a></p>
 
 <sub>© 2018 UberPilot All Rights Reserved</sub>

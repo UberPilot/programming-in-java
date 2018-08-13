@@ -1,5 +1,5 @@
 <!-- Header -->
-<h2 align='center'>1.2 Data Types</h2>
+<h1 align='center'>1.2 Data Types</h1>
 <p align='center'><em>The Long and Short of Java</em></p>
 <p align='center'><a href='./classes.md'><<</a> | <a href='../readme.md'>Index</a> | <a href='./variables.md'>>></a></p>
 
