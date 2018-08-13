@@ -15,7 +15,7 @@ This tutorial mainly covers what is present in Java 8, although it is possible t
   * Testing your IDE
 * **[Chapter 1: Java Basics](./chapter1/index.md)**
   * [Classes](./chapter1/classes.md)
-  * Data Types
+  * [Data Types](./chapter1/datatypes.md)
   * Variables
   * Methods
   * Comments
